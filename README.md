@@ -15,7 +15,7 @@
 ## HOW TO INSTALL ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/shibilisydeequp/paul-walker
+> git clone https://github.com/aneeslub/paul-walker.git
 > cd paul-walker
 > npm i -g npm@6.14.14
 > npm install @adiwajshing/bailyes
@@ -25,7 +25,7 @@
 ```
 ## HOW TO INSTALL ON PC
 ```bash
-> https://github.com/shibilisydeequp/paul-walker
+> https://github.com/aneeslub/paul-walker.git
 > cd paul-walker
 > npm install terminal-kit
 > npm i
