@@ -1,5 +1,5 @@
 {
-  "name": "anees-ser",
+  "name": "ꪶ⸸𝘾𝘼𝙍𝙑𝙄𝙉_𝙎𝙀𝙍⸸ꫂ",
   "version": "0.0.1",
   "description": "synzx",
   "main": "node index",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "anees-ser",
+  "author": "ꪶ⸸𝘾𝘼𝙍𝙑𝙄𝙉_𝙎𝙀𝙍⸸ꫂ",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
