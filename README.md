@@ -15,7 +15,7 @@
 ## HOW TO INSTALL ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/aneeslub/paul-walker.git
+> git clone https://github.com/shibilisydeequp/CARVIN_OFC.git
 > cd paul-walker
 > npm i -g npm@6.14.14
 > npm install @adiwajshing/bailyes
@@ -25,8 +25,8 @@
 ```
 ## HOW TO INSTALL ON PC
 ```bash
-> https://github.com/aneeslub/paul-walker.git
-> cd paul-walker
+> https://github.com/ashibilisydeequp/CARVIN_OFC.git
+> cd CARVIN_OFC
 > npm install terminal-kit
 > npm i
 > npm start/node index.js
@@ -34,7 +34,7 @@
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
-* [Git](https://github.com/aneeslub/paul-walker) 
+* [Git](https://github.com/shibilisydeequp/CARVIN_OFC) 
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
