@@ -16,7 +16,7 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/shibilisydeequp/CARVIN_OFC.git
-> cd paul-walker
+> cd CARVIN_OFC
 > npm i -g npm@6.14.14
 > npm install @adiwajshing/bailyes
 > npm install terminal-kit
