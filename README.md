@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/6nR8tPu.jpeg" alt="paul" width="300" />
 
-# PAUL WALKER
+# ꪶ⸸𝘾𝘼𝙍𝙑𝙄𝙉_𝙎𝙀𝙍⸸ꫂ⁩
 
 >
 >
@@ -25,7 +25,7 @@
 ```
 ## HOW TO INSTALL ON PC
 ```bash
-> https://github.com/ashibilisydeequp/CARVIN_OFC.git
+> https://github.com/shibilisydeequp/CARVIN_OFC.git
 > cd CARVIN_OFC
 > npm install terminal-kit
 > npm i
