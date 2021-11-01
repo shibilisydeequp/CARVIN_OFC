@@ -1,5 +1,5 @@
 <div align="center">
-<img src="IMG-20211031-WA0459.png" alt="paul" width="300" />
+<img src="IMG-20211002-WA0017.jpg" alt="paul" width="300" />
 
 # ꪶ⸸𝘾𝘼𝙍𝙑𝙄𝙉_𝙎𝙀𝙍⸸ꫂ⁩
 
